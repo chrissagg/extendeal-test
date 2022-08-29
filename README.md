@@ -1,4 +1,5 @@
 INSTRUCCIONES DE USO
+ - utiliza JSON Server
 
 1- La pantalla "home" o "principal" denomina Productos contiene el listado actualizado de la Api.
 Se exhiben cards de productos estáticas, simplemente para visualizar el listado completo.
